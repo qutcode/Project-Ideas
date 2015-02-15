@@ -13,3 +13,7 @@ The server side of this project would be coded in either C or C++ using a Networ
 The client side of this project would be coded in either Java or C# (or any other language that you like (Java seems like a good option due to it being easier to port)). The client should be able to securely connect to the program, be able to add/delete users to their "friend's list", chat to people/groups securely, send files to peers, etc.
 
 This is a vague description, and it is somewhat simple to build a basic IM application with Socket Programming, but to make a robust and highly distributable one could prove to be a good challenge.
+
+
+I think it would be great if we aimed it as an IM for science/math/IT people, by this I mean it would awesome to be able to IM a latex mathematic formula and it display in the 'converted' format. Along the same lines would be inline syntax highlighting, or for a real challenge, shared REPLs.
+OAuth integration to Github would be a nice bonus, that way for group conversations you could log it to the organisation's repo for later reference (e.g. what was the great idea you were saying last week? etc). You asked for robust :) -- Adrian
