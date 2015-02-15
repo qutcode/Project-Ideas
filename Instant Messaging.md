@@ -20,3 +20,5 @@ OAuth integration to Github would be a nice bonus, that way for group conversati
 
 
 Those are some great ideas Adrian, we can definitely expand it to include your ideas. --Hayden
+
+I'd be keen to write some P2P Encryption for it (secure chat) - Adam
