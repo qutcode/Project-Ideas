@@ -6,7 +6,9 @@ If you have ideas on Open Source projects for this group, please do share your i
 Format your idea like so:
 
 Project Name: The name of the project
+
 Required Technologies: What languages will this most likely be coded in/OS
+
 Project Description: The description of the project itself
 
 If enough people want to take up on your idea, then you can brainstorm the idea more and start making your sprint backlogs, etc.
