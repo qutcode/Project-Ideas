@@ -1,6 +1,7 @@
 # Project-Ideas
 This repository is designed to brainstorm all the crafty ideas into one central location
 
+### Creating ideas
 If you have ideas on Open Source projects for this group, please do share your idea by making a new text file (.md) in this repository:
 
 Format your idea like so:
