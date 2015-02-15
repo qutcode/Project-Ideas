@@ -30,3 +30,5 @@ I really like this idea, can get a minimal viable project going and people can e
 
 
 Since this is literally the first Open Source project that this group has, how do you want to proceed (i.e. want me to just make a repository and we just brainstorm ideas there or on facebook)?--Hayden
+
+I think brainstorming on either is fine. As long as the 'formalised' idea ends up in the reponotes I guess? -- Adam
