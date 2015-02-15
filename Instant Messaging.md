@@ -26,3 +26,6 @@ I'd be keen to write some P2P Encryption for it (secure chat) -- Adam
 Looks like we have the making of a project. Just need a few more people to make it a true collaborative experience. --Hayden
 
 I really like this idea, can get a minimal viable project going and people can easily jump in an add to it. (very app friendly concept for the mobile devs that qut produces). -- Adam
+
+
+Since this is literally the first Open Source project that this group has, how do you want to proceed (i.e. want me to just make a repository and we just brainstorm ideas there or on facebook)?--Hayden
