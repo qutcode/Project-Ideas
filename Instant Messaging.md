@@ -17,3 +17,6 @@ This is a vague description, and it is somewhat simple to build a basic IM appli
 
 I think it would be great if we aimed it as an IM for science/math/IT people, by this I mean it would awesome to be able to IM a latex mathematic formula and it display in the 'converted' format. Along the same lines would be inline syntax highlighting, or for a real challenge, shared REPLs.
 OAuth integration to Github would be a nice bonus, that way for group conversations you could log it to the organisation's repo for later reference (e.g. what was the great idea you were saying last week? etc). You asked for robust :) -- Adrian
+
+
+Those are some great ideas Adrian, we can definitely expand it to include your ideas. --Hayden
