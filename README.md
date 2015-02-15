@@ -12,3 +12,7 @@ Required Technologies: What languages will this most likely be coded in/OS
 Project Description: The description of the project itself
 
 If enough people want to take up on your idea, then you can brainstorm the idea more and start making your sprint backlogs, etc.
+
+
+### Contributing to ideas
+Just make sure to add your name at the end of your contributing sentence, point, wtf, etc. This way we aren't going to the commit log to figure out who says what.
