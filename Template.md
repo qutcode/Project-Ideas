@@ -9,6 +9,6 @@
 ## Timeline [Optional]
 
 ## URL's and Readings [Optional]
-[Required]
+
 
 # Comments Area [Required]
