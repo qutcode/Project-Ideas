@@ -13,7 +13,7 @@ The idea is to create a educational/time-saving resource for us all to use.
 
 
 File structure:
-
+```
 repo
   |\
   | algorithm1
@@ -24,5 +24,6 @@ repo
     algorithm2
               \
                algorithm2.c
+```
 
 # Comments Area
