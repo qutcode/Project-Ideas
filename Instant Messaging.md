@@ -28,7 +28,8 @@ Looks like we have the making of a project. Just need a few more people to make 
 
 I really like this idea, can get a minimal viable project going and people can easily jump in an add to it. (very app friendly concept for the mobile devs that qut produces). -- Adam
 
-
-Since this is literally the first Open Source project that this group has, how do you want to proceed (i.e. want me to just make a repository and we just brainstorm ideas there or on facebook)?--Hayden
+Since this is literally the first Open Source project that this group has, how do you want to proceed (i.e. want me to just make a repository and we just brainstorm ideas there or on facebook)? --Hayden
 
 I think brainstorming on either is fine. As long as the 'formalised' idea ends up in the reponotes I guess? -- Adam
+
+I had a brainstorming session with a friend of mine in high school about a messenger client that used Facebook's backend to host all communications, but controlling encryption client-to-client so everything is secure from prying eyes. The benefit of such an approach would be much greater reliability and a zero-signup start. I have a whole bunch of dot points for this idea if it interests anyone. -- Andrew C
