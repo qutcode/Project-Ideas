@@ -27,3 +27,5 @@ repo
 ```
 
 # Comments Area
+
+Trials and Tribulations Series Results will be posted here.
